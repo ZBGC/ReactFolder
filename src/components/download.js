@@ -7,4 +7,4 @@ function Download() {
     );
   }
   
-  export default download;
+  export default Download;
