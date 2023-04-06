@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body { 
+    background-color: gainsboro;
+  }
+}
+#image{
+    margin: 0;
+    padding: 0;
+    background-size:cover;
+    background-image: url(./Images/Photo.jpg);
+    background-position: center;
+    height: 90%;
+    width: 100%;
+
+  }
+  
+  
+li{
+    list-style: none;
+  }
+  
+  .nav{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    display: grid;
+    justify-items: center;
+  
+
+  
+  }
+  
+  .nav:hover{
+   transform: scale(1.4);
+  }
+  
+  header{
+    
+    position: relative;
+    padding: 0 2rem;
+  }
+  .navbar{
+    align-items: center;
+    flex-direction: column;
+  }
+  
+
+  #Gallery{
+    top: 30%;
+
+
+  }
+  #About{
+    top : 30%
+  }
+
+  #Download {
+    top: 30%
+  }
+
+  #Contact {
+    top: 30%
+  }
+
+
+
+
+
+  nioegnweoi {
+    
+  }
