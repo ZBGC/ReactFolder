@@ -1,8 +1,7 @@
 function Download() {
     return (
-      <div className="download">
-        
-        <></>
+      <div className="flex">
+          <h2 className="uppercase">Start playing</h2>
       </div>
     );
   }
