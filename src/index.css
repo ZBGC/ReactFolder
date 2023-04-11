@@ -4,10 +4,11 @@
 
 @layer base{
   body { 
-    background-color: gainsboro;
+    background: url('https://i.pinimg.com/564x/30/75/cc/3075cc9498d793ae7daba6abeb795605.jpg');
+    background-size: cover;
   }
 }
-#image{
+/* #image{
     margin: 0;
     padding: 0;
     background-size:cover;
@@ -49,9 +50,9 @@ li{
     align-items: center;
     flex-direction: column;
   }
-  
+   */
 
-  #Gallery{
+  /* #Gallery{
     top: 30%;
 
 
@@ -66,12 +67,4 @@ li{
 
   #Contact {
     top: 30%
-  }
-
-
-
-
-
-  nioegnweoi {
-    
-  }
+  } */
