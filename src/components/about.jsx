@@ -1,7 +1,7 @@
 function About() {
     return (
       <div className="text-center">
-        <p>
+        {/* <p>
         Welcome to the exciting world of "Jumpin-it!"! In this fast-paced, adrenaline-fueled game, 
         you take on the role of NAME, the beloved mascot of tech organization Init.
         <br></br>
@@ -11,7 +11,9 @@ function About() {
         As you progress through the game, you'll be able to upgrade your character with new styles, 
         materials, and accessories to make your mascot stand out from the crowd. 
         So, are you ready to run, jump, and slide your way to the top of the leaderboard? Let's get started!
-        </p>
+        </p> */}
+
+        
       </div>
     );
   }
